@@ -34,7 +34,7 @@ Identifying the relationship between "Loyal Customers" and multiple airline serv
 
 Finally, testing all variables for multicollinearity and detecting outliers will allow for a well-performing model. Additionally, acknowledging which of the variables has the most important predictor variables through regression coefficients, changes in the R-Squared value, and ANOVA tests. Various metrics such as AUC or ROC Curves, R Squared, Precision-Recall and the F-Measure will serve as our baseline for performance evaluation. Once multiple evaluations have been successfully deployed, documenting the model’s performance, assumptions and limitations will be satisifed.
 
-V. Data Intepretation
+# V. Data Intepretation
 Visualization and presentation of findings.
 This will involve interpreting the significant variables and coefficient from a business perspective.
 Practical and actionable insights that can be taken by the airline to improve overall service and customers' satisfaction.
